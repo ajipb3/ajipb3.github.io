@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv1hd.png",VTV1 HD
+http://iptvlive.stream:80/p/550514/c/24/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv2hd.png",VTV2 HD
+http://iptvlive.stream:80/p/550514/c/26/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv3hd.png",VTV3 HD
+http://iptvlive.stream:80/p/550514/c/28/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv4.png",VTV4 HD
+http://iptvlive.stream:80/p/550514/c/30/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv5.png",VTV5 HD
+http://iptvlive.stream:80/p/550514/c/32/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv6hd.png",VTV6 HD
+http://iptvlive.stream:80/p/550514/c/34/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv7hd.png",VTV7 HD
+http://iptvlive.stream:80/p/550514/c/35/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv8hd.png",VTV8 HD
+http://iptvlive.stream:80/p/550514/c/38/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/vtv9hd.png",VTV9 HD
+http://iptvlive.stream:80/p/550514/c/40/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/ttxvn.png",TTXVN HD
+http://iptvlive.stream:80/p/550514/c/44/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/antv.png",AN NINH TV HD
+http://iptvlive.stream:80/p/550514/c/45/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/qpvn.png",QUOC PHONG VIET NAM HD
+http://iptvlive.stream:80/p/550514/c/51/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/quochoi.png",QUOC HOI HD
+http://iptvlive.stream:80/p/550514/c/48/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv1.png",HTV1
+http://iptvlive.stream:80/p/550514/c/52/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv2.png",HTV2 HD
+http://iptvlive.stream:80/p/550514/c/54/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv3.png",HTV3
+http://iptvlive.stream:80/p/550514/c/55/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv4.png",HTV4
+http://iptvlive.stream:80/p/550514/c/56/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv7hd.png",HTV7 HD
+http://iptvlive.stream:80/p/550514/c/58/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv9hd.png",HTV9 HD
+http://iptvlive.stream:80/p/550514/c/60/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/mtv.png",MTV
+http://iptvlive.stream:80/p/550514/c/74/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC1HD.png",VTC1 HD
+http://iptvlive.stream:80/p/550514/c/76/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC3HD.png",VTC3 HD
+http://iptvlive.stream:80/p/550514/c/79/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC4.png",Yeah1!Family-VTC4
+http://iptvlive.stream:80/p/550514/c/80/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC5.png",VTC5
+http://iptvlive.stream:80/p/550514/c/81/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC6.png",VTC6
+http://iptvlive.stream:80/p/550514/c/82/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC7.png",TodayTV-VTC7
+http://iptvlive.stream:80/p/550514/c/83/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC8.png",VTC8
+http://iptvlive.stream:80/p/550514/c/84/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC9.png",VTC9
+http://iptvlive.stream:80/p/550514/c/85/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC10.png",NETVIET-VTC10
+http://iptvlive.stream:80/p/550514/c/86/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC11.png",KidsTV-VTC11
+http://iptvlive.stream:80/p/550514/c/87/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC13HD.png",VTC13 HD
+http://iptvlive.stream:80/p/550514/c/89/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC14HD.png",VTC14 HD
+http://iptvlive.stream:80/p/550514/c/91/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC16.png",3NTV-VTC16
+http://iptvlive.stream:80/p/550514/c/92/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/channelvhd.png",Channel [V] HD
+http://iptvlive.stream:80/p/550514/c/193/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/maxbyhbo.png",MAX BY HBO HD
+http://iptvlive.stream:80/p/550514/c/227/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/redbyhbo.png",RED BY HBO HD
+http://iptvlive.stream:80/p/550514/c/235/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/warnertv.png",WARNER BROS TV
+http://iptvlive.stream:80/p/550514/c/238/u/124009/gUDP5pDLfKJKA23cwvk6YAAHcrYG6n
