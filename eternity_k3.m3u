@@ -33,7 +33,7 @@ http://14.226.235.198:14285/rtp/232.84.1.25:8124
 http://14.226.235.198:14285/rtp/232.84.1.223:9312
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv9hd.png",HTV9 HD
 http://14.226.235.198:14285/rtp/232.84.1.224:9318
-#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/mtv.png",MTV
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/mtv.png",MTV HD
 http://14.226.235.198:14285/rtp/232.84.2.171:10834
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC1HD.png",VTC1 HD
 http://14.226.235.198:14285/rtp/232.84.2.173:10846
@@ -41,15 +41,15 @@ http://14.226.235.198:14285/rtp/232.84.2.173:10846
 http://14.226.235.198:14285/rtp/232.84.1.81:8460
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC4.png",Yeah1!Family-VTC4
 http://14.226.235.198:14285/rtp/232.84.2.37:10630
-#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC5.png",VTC5
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC5.png",VTC5 HD
 http://14.226.235.198:14285/rtp/232.84.2.150:10720
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC6.png",VTC6
 http://14.226.235.198:14285/rtp/232.84.1.58:8328
-#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC7.png",TodayTV-VTC7
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC7.png",TodayTV-VTC7 HD
 http://14.226.235.198:14285/rtp/232.84.2.151:10726
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC8.png",VTC8
 http://14.226.235.198:14285/rtp/232.84.2.39:10642
-#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC9.png",VTC9
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC9.png",VTC9 HD
 http://14.226.235.198:14285/rtp/232.84.2.152:10732
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/VTC10.png",NETVIET-VTC10
 http://14.226.235.198:14285/rtp/232.84.1.214:9258
@@ -67,5 +67,5 @@ http://14.226.235.198:14285/rtp/232.84.2.132:9588
 http://14.226.235.198:14285/rtp/232.84.2.139:10654
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/redbyhbo.png",RED BY HBO HD
 http://14.226.235.198:14285/rtp/232.84.2.172:10840
-#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/warnertv.png",WARNER BROS TV
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/warnertv.png",WARNER BROS TV HD
 http://14.226.235.198:14285/rtp/232.84.2.51:10516
