@@ -17,14 +17,14 @@ http://14.226.235.198:14285/rtp/232.84.2.34:10612
 http://14.226.235.198:14285/rtp/232.84.2.35:10618
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/ttxvn.png",TTXVN HD
 http://14.226.235.198:14285/rtp/232.84.2.238:10434
-#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/qpvn.png",QUOC PHONG VIET NAM HD
-http://14.226.235.198:14285/rtp/232.84.1.219:10332
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/qpvn.png",QUOC PHONG VIET NAM 
+http://14.226.235.198:14285/rtp/232.84.1.228:9342
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/quochoi.png",QUOC HOI HD
 http://14.226.235.198:14285/rtp/232.84.1.234:10290
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv1.png",HTV1
 http://14.226.235.198:14285/rtp/232.84.1.35:8184
-#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv2.png",HTV2 HD
-http://14.226.235.198:14285/rtp/232.84.1.222:9306
+#EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv2.png",HTV2
+http://14.226.235.198:14285/rtp/232.84.1.36:8190
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv3.png",HTV3
 http://14.226.235.198:14285/rtp/232.84.1.104:8598
 #EXTINF:-1,  tvg-logo="http://tduc.tk/logo/htv4.png",HTV4
