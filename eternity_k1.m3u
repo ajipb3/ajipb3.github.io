@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/1-NHK-General-TV-1-770x480.jpg",NHK G
 http://203.162.235.41:16903
 #EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/5-Fuji-TV-1-770x480.jpg",FUJI TV
@@ -30,81 +31,33 @@ http://203.162.235.41:16916
 #EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbfBIbn%2FbtqxmwzvETo%2FzKVada6KLqOr85HE2zVL20%2Fimg.jpg",Golf Network
 http://203.162.235.41:16924
 
+#EXTINF:-1, group-title="JAPAN-TV2",NHK WORLD HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
 
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg",CCTV-1
-http://1.240.92.209:9981/stream/channelid/1889438190
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg",CCTV-2
-http://1.240.92.209:9981/stream/channelid/1209718462
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg",CCTV-3
-http://1.240.92.209:9981/stream/channelid/192309814
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg",CCTV-4
-http://1.240.92.209:9981/stream/channelid/520888495
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg",CCTV-5
-http://1.240.92.209:9981/stream/channelid/862360371
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg",CCTV-6
-http://1.240.92.209:9981/stream/channelid/193433833
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg",CCTV-7
-http://1.240.92.209:9981/stream/channelid/1105103388
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg",CCTV-8
-http://1.240.92.209:9981/stream/channelid/975325273
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg",CCTV-9
-http://1.240.92.209:9981/stream/channelid/1003636948
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg",CCTV-10
-http://1.240.92.209:9981/stream/channelid/1596653544
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg",CCTV-11
-http://1.240.92.209:9981/stream/channelid/379822881
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg",CCTV-12
-http://1.240.92.209:9981/stream/channelid/2017249365
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg",CCTV-13
-http://1.240.92.209:9981/stream/channelid/260142193
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg",CCTV-14
-http://1.240.92.209:9981/stream/channelid/1041240152
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg",CCTV-15
-http://1.240.92.209:9981/stream/channelid/1905568829
+#EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png",news24日テレ
+http://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/dongfang.jpg",东方卫视
-http://1.240.92.209:9981/stream/channelid/1080587883
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/yunnantv.jpg",云南卫视
-http://1.240.92.209:9981/stream/channelid/1064338897
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/beijingtv.jpg",北京卫视
-http://1.240.92.209:9981/stream/channelid/974087394
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/tianjintv.jpg",天津卫视
-http://1.240.92.209:9981/stream/channelid/440984849
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg",山东卫视
-http://1.240.92.209:9981/stream/channelid/1731929936
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/shanxitv.jpg",山西卫视
-http://1.240.92.209:9981/stream/channelid/1025147695
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg",广东卫视
-http://1.240.92.209:9981/stream/channelid/451776230
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangsutv.jpg",江苏卫视
-http://1.240.92.209:9981/stream/channelid/1215500032
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangxitv.jpg",江西卫视
-http://1.240.92.209:9981/stream/channelid/2011922044
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/henantv.jpg",河南卫视
-http://1.240.92.209:9981/stream/channelid/483521198
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/shenzhentv.jpg",深圳卫视
-http://1.240.92.209:9981/stream/channelid/947248966
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg",湖南卫视
-http://1.240.92.209:9981/stream/channelid/1616320308
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1"tvg-logo="http://www.tvyan.com/uploads/dianshi/chongqingtv.jpg",重庆卫视
-http://1.240.92.209:9981/stream/channelid/1240223719
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1"tvg-logo="http://www.tvyan.com/uploads/dianshi/heilongjiangtv.jpg",黑龙江卫视
-http://1.240.92.209:9981/stream/channelid/956889526
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/dongfang.jpg",动作电影
-http://1.240.92.209:9981/stream/channelid/687522293
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjiating.jpg",家庭剧场
-http://1.240.92.209:9981/stream/channelid/701710815
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjingsong.jpg",惊悚悬疑
-http://1.240.92.209:9981/stream/channelid/974829991
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1"tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg",金牌综艺
-http://1.240.92.209:9981/stream/channelid/1372134290
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdapian.jpg",明星大片
-http://1.240.92.209:9981/stream/channelid/982912622
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjpty.jpg",精品体育
-http://1.240.92.209:9981/stream/channelid/2144502085
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1"tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdaju.jpg",精品大剧
-http://1.240.92.209:9981/stream/channelid/1567604884
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1"tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdianying.jpg",精品电影
-http://1.240.92.209:9981/stream/channelid/160928508
-#EXTINF:-1, group-title="CHINA-ғʜᴅ1"tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg",精品记录
-http://1.240.92.209:9981/stream/channelid/2016617017
+#EXTINF:-1, group-title="JAPAN-TV2",TBS NEWS
+https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
+
+#EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",Tokyo MX1
+http://movie.mcas.jp/mcas/smil:mx1_prod.smil/chunklist_b364000.m3u8
+
+#EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",Tokyo MX2
+http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
+
+#EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",Weather News
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+
+#EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg",日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
+#EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="JAPAN",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="http://www.himawari.co.jp/wp-content/uploads/channel_logo_cs_261ch.jpg",Family Gekijo
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+
+#EXTINF:-1, group-title="JAPAN-TV2" tvg-logo="https://jp.history.com/wp-content/themes/historychannel/cmn/img/logo.png",History Channel
+http://192.240.127.34:1935/live/cs14.stream/play.m3u8
