@@ -37,11 +37,11 @@ http://1.240.92.209:9981/stream/channelid/1854566001
 
 
 #EXTINF:-1, group-title="KOREA-영화" tvg-logo="http://i.imgur.com/fwjRwkx.png",채널CGV
-http://1.240.92.209:9981/stream/channelid/1704384387
+http://211.215.40.117:9981/stream/channelid/738178520
 #EXTINF:-1, group-title="KOREA-영화" tvg-logo="http://i.imgur.com/IXh6dwo.png",OCN
-http://1.240.92.209:9981/stream/channelid/1603088288
+http://211.215.40.117:9981/stream/channelid/1023849829
 #EXTINF:-1, group-title="KOREA-영화" tvg-logo="http://i.imgur.com/D9PzDBr.png",슈퍼액션
-http://1.240.92.209:9981/stream/channelid/365054857
+http://211.215.40.117:9981/stream/channelid/1480339116
 
 #EXTINF:-1, group-title="KOREA-스포츠" tvg-logo="http://i.imgur.com/cIpIf6b.png",SPOTV
 http://1.240.92.209:9981/stream/channelid/1427306430
