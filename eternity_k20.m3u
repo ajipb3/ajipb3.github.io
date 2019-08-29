@@ -1,32 +1,32 @@
 #EXTM3U
 
 #EXTINF:-1, group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/K2ztoDT.png",SBS
-http://1.240.92.209:9981/stream/channelid/1997686224
+http://211.215.40.117:9981/stream/channelid/1153492795
 #EXTINF:-1, group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/XgibZbD.png",KBS2
-http://1.240.92.209:9981/stream/channelid/2085648547
+http://211.215.40.117:9981/stream/channelid/727183637
 #EXTINF:-1, group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/e31o5gw.png",KBS1
-http://1.240.92.209:9981/stream/channelid/712150357
+http://211.215.40.117:9981/stream/channelid/1474733350
 #EXTINF:-1, group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/duig32i.png",MBC
-http://1.240.92.209:9981/stream/channelid/235893704
+http://211.215.40.117:9981/stream/channelid/1717476052
 #EXTINF:-1, group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/WViFruZ.png",EBS1
-http://1.240.92.209:9981/stream/channelid/1936614162
+http://211.215.40.117:9981/stream/channelid/1365922511
 #EXTINF:-1, group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/DJHN8M6.png",OBS
-http://1.240.92.209:9981/stream/channelid/1899875120
+http://211.215.40.117:9981/stream/channelid/1580679446
 
 #EXTINF:-1, group-title="KOREA-종합편성채널" tvg-logo="http://i.imgur.com/YOYosLG.png",JTBC
-http://1.240.92.209:9981/stream/channelid/1877371912
+http://211.215.40.117:9981/stream/channelid/1164163058
 #EXTINF:-1, group-title="KOREA-종합편성채널" tvg-logo="http://i.imgur.com/p0mvIJN.png",MBN
-http://1.240.92.209:9981/stream/channelid/1165684446
+http://211.215.40.117:9981/stream/channelid/549209691
 #EXTINF:-1, group-title="KOREA-종합편성채널" tvg-logo="http://i.imgur.com/xti35f5.png",채널A
-http://1.240.92.209:9981/stream/channelid/870089643
+http://211.215.40.117:9981/stream/channelid/752409142
 #EXTINF:-1, group-title="KOREA-종합편성채널" tvg-logo="http://i.imgur.com/ShJ5joR.png",TV조선
-http://1.240.92.209:9981/stream/channelid/94444245
+http://211.215.40.117:9981/stream/channelid/1152969515
 #EXTINF:-1, group-title="KOREA-예능" tvg-logo="http://i.imgur.com/asfyrTm.png",SBS Plus
-http://1.240.92.209:9981/stream/channelid/1012864385
+http://211.215.40.117:9981/stream/channelid/1500855823
 #EXTINF:-1, group-title="KOREA-예능" tvg-logo="https://i.imgur.com/gGqDBjb.png",XtvN
 http://1.240.92.209:9981/stream/channelid/1215689650
 #EXTINF:-1, group-title="KOREA-예능" tvg-logo="http://i.imgur.com/OJ9A8fZ.png",tvN
-http://1.240.92.209:9981/stream/channelid/1754752978
+http://211.215.40.117:9981/stream/channelid/2071026754
 
 #EXTINF:-1, group-title="KOREA-예능" tvg-logo="http://i.imgur.com/KlTCP8V.png",연합뉴스TV
 http://1.240.92.209:9981/stream/channelid/1919584768
