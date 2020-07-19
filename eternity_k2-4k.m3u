@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="170" tvg-chno="2" group-title="KOREA-예능" tvg-logo="http://i.imgur.com/asfyrTm.png",SBS 플러스
+#EXTINF:-1 tvg-id="58" tvg-chno="2" group-title="KOREA-예능" tvg-logo="http://i.imgur.com/asfyrTm.png",SBS 플러스
 http://218.52.155.185:9981/stream/channelid/224032616
-#EXTINF:-1 tvg-id="164" tvg-chno="5" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/K2ztoDT.png",SBS
+#EXTINF:-1 tvg-id="7" tvg-chno="5" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/K2ztoDT.png",SBS
 http://218.52.155.185:9981/stream/channelid/2067997377
 #EXTINF:-1 tvg-id="111" tvg-chno="7" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/XgibZbD.png",KBS2
 http://218.52.155.185:9981/stream/channelid/430506903
