@@ -4,11 +4,11 @@
 http://218.52.155.185:9981/stream/channelid/224032616
 #EXTINF:-1 tvg-id="7" tvg-chno="5" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/K2ztoDT.png",SBS
 http://218.52.155.185:9981/stream/channelid/2067997377
-#EXTINF:-1 tvg-id="111" tvg-chno="7" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/XgibZbD.png",KBS2
+#EXTINF:-1 tvg-id="4" tvg-chno="7" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/XgibZbD.png",KBS2
 http://218.52.155.185:9981/stream/channelid/430506903
-#EXTINF:-1 tvg-id="110" tvg-chno="9" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/e31o5gw.png",KBS1
+#EXTINF:-1 tvg-id="3" tvg-chno="9" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/e31o5gw.png",KBS1
 http://218.52.155.185:9981/stream/channelid/1387682352
-#EXTINF:-1 tvg-id="122" tvg-chno="11" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/duig32i.png",MBC
+#EXTINF:-1 tvg-id="5" tvg-chno="11" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/duig32i.png",MBC
 http://218.52.155.185:9981/stream/channelid/1574501058
 
 #EXTINF:-1 tvg-id="60" tvg-chno="13" group-title="KOREA-지상파" tvg-logo="http://i.imgur.com/WViFruZ.png",EBS
